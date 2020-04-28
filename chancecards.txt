@@ -1,0 +1,17 @@
+chanceno	chanceact
+1	pass
+2	gotolondon
+3	gotostart
+4	pass
+5	gotojail
+6	gotoclosesttransport
+7	pass
+8	gotoclosesttransport
+9	gothreeb
+10	pass
+11	gotoistanbul
+12	gotomontreal
+13	pass
+14	gotojelez
+15	gotoelectricity
+16	pass
